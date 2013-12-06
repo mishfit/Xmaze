@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MyDrawingApp */ = {
+		activeExec = 0;
+		executables = (
+			D7568B9A11D991F4006291B9 /* MyDrawingApp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D7568B9A11D991F4006291B9 /* MyDrawingApp */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MyDrawingApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MyDrawingApp */,
+		);
+		breakpoints = (
+			D790EBA311E0F24B0028DB86 /* MyDrawingView.m:86 */,
+			D790EBAC11E0F2820028DB86 /* MyDrawingView.m:196 */,
+			D790EC8C11E48E1D0028DB86 /* MyDrawingView.m:117 */,
+			D790EC9211E48E350028DB86 /* MyDrawingView.m:123 */,
+			D790EC9811E48E4D0028DB86 /* MyDrawingView.m:80 */,
+			D790ECA811E48EF60028DB86 /* MyDrawingView.m:104 */,
+			D790ECB511E48FBF0028DB86 /* MyDrawingView.m:103 */,
+			D735F09A11E5003000B8A495 /* MyDrawingView.m:94 */,
+		);
+		codeSenseManager = D7568BA611D99213006291B9 /* Code sense */;
+		executables = (
+			D7568B9A11D991F4006291B9 /* MyDrawingApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					467,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300696148;
+			PBXWorkspaceStateSaveDate = 300696148;
+		};
+		perUserProjectItems = {
+			D790EBA711E0F26B0028DB86 = D790EBA711E0F26B0028DB86 /* PBXBookmark */;
+			D790EBCC11E245130028DB86 = D790EBCC11E245130028DB86 /* PBXTextBookmark */;
+			D790EC0911E2B50A0028DB86 = D790EC0911E2B50A0028DB86 /* PBXTextBookmark */;
+			D790EC1A11E2B61B0028DB86 = D790EC1A11E2B61B0028DB86 /* PBXTextBookmark */;
+			D790EC3A11E3770A0028DB86 = D790EC3A11E3770A0028DB86 /* PBXTextBookmark */;
+			D790EC4611E3A5A10028DB86 = D790EC4611E3A5A10028DB86 /* PBXTextBookmark */;
+			D790ECA411E48EEC0028DB86 = D790ECA411E48EEC0028DB86 /* PBXTextBookmark */;
+			D790ECC911E4E0440028DB86 = D790ECC911E4E0440028DB86 /* PBXTextBookmark */;
+			D7A6B03D11E7DC38006C67BC = D7A6B03D11E7DC38006C67BC /* PBXBookmark */;
+			D7A6B15A11EA4927006C67BC = D7A6B15A11EA4927006C67BC /* PBXTextBookmark */;
+			D7A6B15B11EA4927006C67BC = D7A6B15B11EA4927006C67BC /* PBXTextBookmark */;
+			D7A6B15C11EA4927006C67BC = D7A6B15C11EA4927006C67BC /* PBXTextBookmark */;
+			D7A6B15F11EA4927006C67BC = D7A6B15F11EA4927006C67BC /* PBXTextBookmark */;
+			D7A6B2EE11EC4291006C67BC /* PBXTextBookmark */ = D7A6B2EE11EC4291006C67BC /* PBXTextBookmark */;
+			D7A6B2EF11EC4291006C67BC /* PBXTextBookmark */ = D7A6B2EF11EC4291006C67BC /* PBXTextBookmark */;
+			D7A6B2F211EC4291006C67BC /* PBXTextBookmark */ = D7A6B2F211EC4291006C67BC /* PBXTextBookmark */;
+			D7A6B2FD11EC42B1006C67BC /* PBXTextBookmark */ = D7A6B2FD11EC42B1006C67BC /* PBXTextBookmark */;
+			D7A6B2FE11EC42B1006C67BC /* PBXTextBookmark */ = D7A6B2FE11EC42B1006C67BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = D7568BA511D99213006291B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D735F09A11E5003000B8A495 /* MyDrawingView.m:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "SetPatternColorSpace()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = MyDrawingApp;
+		modificationTime = 300220464.463603;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D7568B9A11D991F4006291B9 /* MyDrawingApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyDrawingApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D7568BA511D99213006291B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D7568BA611D99213006291B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D7568BA711DAAA5B006291B9 /* MyDrawingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {645, 744}}";
+			sepNavSelRange = "{146, 284}";
+			sepNavVisRange = "{0, 431}";
+			sepNavWindowFrame = "{{1165, 61}, {726, 639}}";
+		};
+	};
+	D7568BA811DAAA5B006291B9 /* MyDrawingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {761, 2795}}";
+			sepNavSelRange = "{985, 27}";
+			sepNavVisRange = "{435, 969}";
+			sepNavWindowFrame = "{{780, 357}, {726, 639}}";
+		};
+	};
+	D7568C2511DFF136006291B9 /* Office.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 534}, {726, 639}}";
+		};
+	};
+	D790EBA311E0F24B0028DB86 /* MyDrawingView.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = MyDrawingApp;
+		modificationTime = 300220388.777637;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D790EBA711E0F26B0028DB86 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7568C2511DFF136006291B9 /* Office.jpg */;
+	};
+	D790EBAC11E0F2820028DB86 /* MyDrawingView.m:196 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 196;
+		location = MyDrawingApp;
+		modificationTime = 300220388.777776;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	D790EBCC11E245130028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790EBCD11E245130028DB86 /* CGColorSpace.h */;
+		name = "CGColorSpace.h: 45";
+		rLen = 23;
+		rLoc = 1175;
+		rType = 0;
+		vrLen = 2253;
+		vrLoc = 939;
+	};
+	D790EBCD11E245130028DB86 /* CGColorSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColorSpace.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h;
+		sourceTree = "<absolute>";
+	};
+	D790EC0911E2B50A0028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790EC0A11E2B50A0028DB86 /* UIScreen.h */;
+		name = "UIScreen.h: 33";
+		rLen = 6;
+		rLoc = 1159;
+		rType = 0;
+		vrLen = 1682;
+		vrLoc = 0;
+	};
+	D790EC0A11E2B50A0028DB86 /* UIScreen.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScreen.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScreen.h;
+		sourceTree = "<absolute>";
+	};
+	D790EC0C11E2B50A0028DB86 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	D790EC1A11E2B61B0028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790EC0C11E2B50A0028DB86 /* CGGeometry.h */;
+		name = "CGGeometry.h: 31";
+		rLen = 15;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 0;
+	};
+	D790EC3A11E3770A0028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790EC3B11E3770A0028DB86 /* CGGradient.h */;
+		name = "CGGradient.h: 14";
+		rLen = 48;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 2488;
+		vrLoc = 0;
+	};
+	D790EC3B11E3770A0028DB86 /* CGGradient.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGradient.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h;
+		sourceTree = "<absolute>";
+	};
+	D790EC4611E3A5A10028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790EC4711E3A5A10028DB86 /* CGGradient.h */;
+		name = "CGGradient.h: 14";
+		rLen = 48;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 2560;
+		vrLoc = 0;
+	};
+	D790EC4711E3A5A10028DB86 /* CGGradient.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGradient.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h;
+		sourceTree = "<absolute>";
+	};
+	D790EC8C11E48E1D0028DB86 /* MyDrawingView.m:117 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "PaintMyPattern()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 117;
+		location = MyDrawingApp;
+		modificationTime = 300220388.777827;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D790EC9211E48E350028DB86 /* MyDrawingView.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "PaintMyPattern()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = MyDrawingApp;
+		modificationTime = 300220388.77787;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D790EC9811E48E4D0028DB86 /* MyDrawingView.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "-drawRect:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = MyDrawingApp;
+		modificationTime = 300220391.394651;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D790ECA411E48EEC0028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790ECA511E48EEC0028DB86 /* CGAffineTransform.h */;
+		name = "CGAffineTransform.h: 118";
+		rLen = 0;
+		rLoc = 4188;
+		rType = 0;
+		vrLen = 1994;
+		vrLoc = 3011;
+	};
+	D790ECA511E48EEC0028DB86 /* CGAffineTransform.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGAffineTransform.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h;
+		sourceTree = "<absolute>";
+	};
+	D790ECA811E48EF60028DB86 /* MyDrawingView.m:104 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "MyPatternFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 104;
+		location = MyDrawingApp;
+		modificationTime = 300220388.7779611;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D790ECB511E48FBF0028DB86 /* MyDrawingView.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		functionName = "MyPatternFunction()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = MyDrawingApp;
+		modificationTime = 300220484.858086;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D790ECC911E4E0440028DB86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D790ECCA11E4E0440028DB86 /* CGGeometry.h */;
+		name = "CGGeometry.h: 273";
+		rLen = 0;
+		rLoc = 8591;
+		rType = 0;
+		vrLen = 1739;
+		vrLoc = 7353;
+	};
+	D790ECCA11E4E0440028DB86 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	D7A6B03D11E7DC38006C67BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+	};
+	D7A6B15A11EA4927006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA711DAAA5B006291B9 /* MyDrawingView.h */;
+		name = "MyDrawingView.h: 9";
+		rLen = 284;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	D7A6B15B11EA4927006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 101";
+		rLen = 0;
+		rLoc = 2917;
+		rType = 0;
+		vrLen = 1831;
+		vrLoc = 3092;
+	};
+	D7A6B15C11EA4927006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 14";
+		rLen = 11;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 1381;
+		vrLoc = 0;
+	};
+	D7A6B15F11EA4927006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 45";
+		rLen = 27;
+		rLoc = 985;
+		rType = 0;
+		vrLen = 1180;
+		vrLoc = 435;
+	};
+	D7A6B2EE11EC4291006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 14";
+		rLen = 11;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 1358;
+		vrLoc = 0;
+	};
+	D7A6B2EF11EC4291006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 48";
+		rLen = 0;
+		rLoc = 1067;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 3;
+	};
+	D7A6B2F211EC4291006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 45";
+		rLen = 27;
+		rLoc = 985;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 435;
+	};
+	D7A6B2FD11EC42B1006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 80";
+		rLen = 0;
+		rLoc = 2274;
+		rType = 0;
+		vrLen = 1859;
+		vrLoc = 1018;
+	};
+	D7A6B2FE11EC42B1006C67BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7568BA811DAAA5B006291B9 /* MyDrawingView.m */;
+		name = "MyDrawingView.m: 45";
+		rLen = 27;
+		rLoc = 985;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 435;
+	};
+}
